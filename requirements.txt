@@ -1,0 +1,6 @@
+google-adk==2.9.2
+mcp>=2.2
+chromadb
+httpx
+trafilatura
+python-dotenv
